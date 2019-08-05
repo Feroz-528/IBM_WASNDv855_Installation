@@ -3,7 +3,7 @@
 --> Tested On RedHat7/CentOS7
 
 --> First download the WebSphere Packages and Installation manager packages,
-    Put downloaded packages in roles files section,
+    Put downloaded packages in files section of roles,
     Make necessary changes in roles variables section and done.
 
 
